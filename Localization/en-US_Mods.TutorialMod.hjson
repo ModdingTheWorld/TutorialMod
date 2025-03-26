@@ -1,0 +1,8 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	TutorialSword: {
+		DisplayName: Groengarrok
+		Tooltip: "    Tach Tach Tach - the unfathomable sound this mighty sword produces when slaying it´s enemies."
+	}
+}
